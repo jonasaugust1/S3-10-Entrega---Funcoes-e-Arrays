@@ -15,4 +15,4 @@ function positions(firstPlace, secondPlace, lastPlace){
     
 }
 
-console.log(positions("Manoel", "Rafael", "Daniel"))
+console.log(positions("Daniel", "Manoel", "Rafael",))
